@@ -34,7 +34,8 @@ Wilks test is a way to test if the data has normal distribution or not. Accordin
 
 b)Mann-Whitney U Test: used to compare two independent samples to determine whether they have different distributions. It is also known as Wilcoxon Rank-Sum Test. The test works by ranking all observations from both groups and calculating the U statistic, which represents the probability that a randomly chosen observation from one group will be greater than a randomly chosen observation from the other group. 
 
-
+### Results
+The Mann-Whitney U test was conducted to determine if there is a significant difference between the conversion rates of a control group and a treatment group. The test result showed a statistic of 3667931.0 and a p-value of 0.3822959379178349. Since the p-value is greater than the significance level of 0.05, we fail to reject the null hypothesis and conclude that there is no statistically significant difference in conversion rates between the control group and the treatment group. Therefore, we cannot say that the new landing page has a significant effect on the conversion rate compared to the old landing page.
 
 ## Requirements
 
