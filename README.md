@@ -12,7 +12,8 @@ The dataset used in this analysis can be found on [Kaggle](https://www.kaggle.co
 ### Hypothesis
 
 Null Hypothesis: New design landing page does not perform significantly differently than the old one
-Alternative Hypothesis: our new design performs different (let alone better) than our old one
+
+Alternative Hypothesis: New design landing page performs significantly differently than our old one
 
 
 
